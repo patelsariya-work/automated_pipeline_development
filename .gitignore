@@ -1,0 +1,40 @@
+### Nextflow ###
+.nextflow/
+.nextflow.log*
+work/
+results/
+trace.txt*
+timeline.html*
+report.html*
+dag.png*
+.nextflow*
+nextflow
+nextflow.exe
+
+### Data ###
+data/
+*.fq
+*.fastq
+*.fq.gz
+*.fastq.gz
+*.bam
+*.sam
+*.bai
+*.vcf
+*.vcf.gz
+
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb
+.ipynb_checkpoints/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### IDE ###
+.idea/
+.vscode/
+*.swp
